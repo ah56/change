@@ -1,0 +1,22 @@
+
+.clickable{
+  cursor: pointer;
+
+}
+.container{
+
+  color: red;
+
+}
+
+.background-green {
+  background-color: green;
+}
+
+.background-yellow {
+  background-color: yellow;
+}
+
+.background-blue {
+  background-color: blue;
+}
